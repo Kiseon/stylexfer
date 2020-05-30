@@ -1,2 +1,2 @@
-[![Run on Ainize](https://ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=github.com/ksryu/docker101tutorial)
+[![Run on Ainize](https://ainize.ai/static/images/run_on_ainize_button.svg)](https://docker101tutorial.kiseon.endpoint.ainize.ai/tutorial/)
 
